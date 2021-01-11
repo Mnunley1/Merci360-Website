@@ -18,7 +18,7 @@ import Faq from "sections/faq";
 export default function IndexPage() {
   return (
     <div>
-      <SEO title="Startup Landing 004" />
+      <SEO title="Merci360" />
       <Banner />
       <KeyFeature />
       <CoreFeature />

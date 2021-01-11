@@ -6,7 +6,7 @@ import ModalVideo from "react-modal-video";
 import { Link } from "components/link";
 import { FaPlayCircle } from "react-icons/fa";
 import BannerBG from "assets/bannerBg.png";
-import BannerThumb from "assets/banner-thumb.png";
+import BannerThumb from "assets/merciApp.png";
 
 import client1 from "assets/sponsor/paypal.svg";
 import client2 from "assets/sponsor/google.svg";
@@ -118,13 +118,13 @@ const styles = {
     imageBox: {
       display: ["none", null, null, "block"],
       justifyContent: "center",
-      ml: [0, null, null, "-110px", "-115px", "-150px", "-210px", "-270px"],
+      ml: [0, null, null, "30px", "90px", "90px", "130px", "190px"],
       mr: [0, null, null, "-145px", "-160px", "-180px", "-220px", "-290px"],
       mt: [0, null, null, "40px", 4, 7, 0],
       mb: [0, null, null, null, "-45px", "-70px", null, "-115px"],
       overflow: "hidden",
       textAlign: "right",
-      width: "100%",
+      width: "30%",
     },
   },
   sponsorTitle: {
